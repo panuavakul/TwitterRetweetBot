@@ -1,0 +1,1 @@
+This is a simple personal python project that aim to create a Twitter bot and host it on GoogleApp engine
