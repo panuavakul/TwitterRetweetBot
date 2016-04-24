@@ -1,0 +1,15 @@
+cron:
+- description: retweet every hour
+  url: /retweet
+  schedule: every 1 hours
+  timezone: Japan
+
+- description: check and retweet amatou every hour
+  url: /retweetamatou
+  schedule: every 1 hours
+  timezone: Japan
+
+- description: check follow back every 2 hours
+  url: /followback
+  schedule: every 2 hours
+  timezone: Japan
